@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+
+}
+input{
+    padding: 20px;
+    margin: 15px;
+    border-collapse: separate;
+    border: 1px coral solid ;
+
+}
+fname{
+    color: blueviolet;
+}

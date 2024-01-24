@@ -1,0 +1,33 @@
+table{
+    width: 90%;
+    border-collapse: collapse;
+    margin: 20px;
+}
+td,th{
+    border:1px solid coral;
+    padding: 15px;
+    margin: 20px;
+    background-color: aliceblue;
+}
+th{
+    font: bold;
+    color: #fd00f4;
+    font-family: "Algerian";
+}
+td{
+    font: all-petite-caps;
+    color:blue;
+    font-family:"Bookman Old Style";
+    font-size: medium;
+}
+h2{
+    color: blueviolet;
+    font: bolder;
+    font-family: bolder;
+}
+tr:nth-child(even){
+    background-color: blue;
+}
+
+
+
